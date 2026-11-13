@@ -1,0 +1,36 @@
+# 2. Four Architectures
+
+**Objectives.** Distinguish four registers in which influence is built; map the light/dark spectrum onto each; identify which register a given campaign is working in.
+
+**Key terms:** built architecture · information architecture · interface architecture · institutional architecture · choice architecture · dark pattern
+
+---
+
+The title of this book is literal. Influence is *built*. It is poured, printed, coded, and legislated before anyone is persuaded by it. Four registers matter, and they escalate in visibility.
+
+**1. Built architecture — stone.** Physical space pre-sorts a crowd before a word is spoken. Haussmann's boulevards gave Paris sightlines wide enough to move artillery and prevent barricades. Jeremy Bentham's panopticon made the *possibility* of being watched do the work of walls. Albert Speer's "Cathedral of Light" at Nuremberg — 130 anti-aircraft searchlights throwing vertical pillars into the sky — converted a parade ground into a secular nave. The architecture argued before the speech began.
+
+**2. Information architecture — ink and signal.** What exists to be known, and in what order. Library catalogues, newspaper front pages, broadcast schedules, and now ranking algorithms all perform the same function: they decide what a population encounters without deciding what it thinks. This register is where agenda-setting lives.
+
+**3. Interface architecture — the shape of the choice.** How the decision is presented. Organ-donation opt-out, the pre-ticked box, the confirm-shaming button reading "No thanks, I hate saving money." Richard Thaler and Cass Sunstein's *Nudge* (2008) named this "choice architecture" and its central insight is unavoidable: there is no neutral way to present an option. Somebody designed the menu.
+
+**4. Institutional architecture — rules and offices.** Who must disclose, who may audit, who absorbs the blame. A ministry of information, an ad library, a press council, a libel statute. This is the slowest register and the only one that can bind the other three.
+
+**Light and dark cut across all four.**
+
+| | Light | Dark |
+|---|---|---|
+| **Stone** | Public squares that invite assembly | Chokepoints that funnel and compress crowds |
+| **Information** | Sourced claims, disclosed uncertainty | Epistemic flooding, suppressed correction |
+| **Interface** | Visible default, frictionless opt-out | Roach-motel subscription, disguised ad |
+| **Institution** | Mandatory disclosure, independent audit | Capture, revolving doors, plausible deniability |
+
+**The registers compound.** A stadium (stone) with a jumbotron (information) and a one-tap donation prompt (interface) inside a legal exemption from disclosure (institution) is a single persuasive machine with four moving parts. Analysts who examine only one register will always under-report the pressure.
+
+⚠️ **Contested: "dark patterns" is a baggy term.** Brignull's original 2010 taxonomy named twelve types; later academic work found the boundaries between them unreliable and proposed slimmer sets. The phenomenon is real and replicated; the catalogue is not stable. Cite specific mechanics, not the label.
+
+**Check.** (1) Why is there no neutral choice architecture? (2) Which register is hardest for a citizen to see, and why? (3) Give a light and a dark example in the institutional register.
+
+🔧 **Activity.** Photograph one real environment — a station concourse, a shop till queue, a school corridor. Label every element by register. Find one element in each that steers behaviour, and grade it light or dark.
+
+**Summary.** Influence is designed into space, information, interface, and law. Learn to see all four and the "invisible" hand becomes visible.

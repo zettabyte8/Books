@@ -1,0 +1,25 @@
+# 8. Radio and the Limits of Causation
+
+**Objectives.** Describe RTLM's method; weigh the causal claim against its critics; analyse the British rationing counter-case.
+
+**Key terms:** hate radio · dehumanising metaphor · inyenzi · Mass-Observation · Dig for Victory
+
+---
+
+Radio's power is intimacy at distance, and its weakness as evidence is that intimacy is hard to measure.
+
+**Radio Télévision Libre des Mille Collines** launched in July 1993 in Kigali. It was not stiff state broadcasting. It played Congolese soukous, used street Kinyarwanda, and joked. It built an audience first and spent it later. During the genocide from April 1994 it called the Tutsi *inyenzi* — cockroaches — framed killing as pre-emptive self-defence, and read out names, number plates, and roadblocks. The International Criminal Tribunal for Rwanda convicted its executives of direct and public incitement in 2003, a landmark for media liability.
+
+⚠️ **Contested: did the radio cause the killing?** The popular version says it did. Scott Straus ("Radio Machete," 2007) argues the causal role is overstated: much of the killing was locally organised by mayors, councillors, and neighbours; many killers had no radio; and RTLM's reach was limited by receiver distribution and power supply. His alternative is that radio worked as an accelerant and coordinator, not a trigger. Note that the book you are reading cited Straus in the first edition and then called RTLM "a primary instrument" two sentences later. Both statements are in the literature; they are not the same claim.
+
+The **British Ministry of Information** is the counter-case, and it is the more interesting one. Facing blockade, the government rationed food, fuel, and clothing, and paired enforcement with *explanation*. Mass-Observation diarists tracked public mood continuously and campaigns were adjusted to it. "Dig for Victory" and "Make Do and Mend" framed conservation as active participation, and radio characters — Doctor Carrot, Potato Pete — taught nutrition using unrationed food. The Royal Family took the same ration cards, publicly.
+
+Result: compliance held, the black market stayed small, and British nutrition and infant mortality actually *improved* during the war. Almost no blowback. The variables: shared sacrifice, visible fairness, continuous feedback, and a stated reason.
+
+**Compare the two.** Same medium, opposite outcomes. RTLM ran on fear and dehumanisation with no feedback loop. The MOI ran on explanation and monitored what landed. That is Chapter 4's thesis in one comparison.
+
+**Check.** (1) Why did Straus's argument matter enough to litigate? (2) List the four rationing variables. (3) What would RTLM have needed to do to be an MOI?
+
+🔧 **Activity.** Take one school rule and write two announcements: the RTLM version (fear, enemy, urgency) and the MOI version (reason, shared cost, opt-in). Test both on another class and record which produced compliance and which produced resentment.
+
+**Summary.** Radio amplifies whatever social structure already exists. Trust and explanation, not wattage, decide whether it builds consent or burns it.

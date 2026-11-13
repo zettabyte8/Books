@@ -1,0 +1,33 @@
+# 10. Defence: Thinking Under Fire
+
+**Objectives.** Run SIFT; perform lateral reading; apply a prebunk; audit arousal; design a personal attention budget.
+
+**Key terms:** prebunking · inoculation · lateral reading · SIFT · arousal audit · steel-manning · calibration
+
+---
+
+Defence is a set of habits, not a body of knowledge. Facts go stale; habits transfer.
+
+**Prebunk, don't debunk.** Inoculation theory (McGuire, 1961; modernised by van der Linden and Roozenbeek) works like a vaccine: a weakened dose of the technique plus the name of the trick. Teaching *"this is a false dichotomy"* protects against every false dichotomy, including ones nobody has written yet. Debunking only fixes the claim in front of you.
+
+**Lateral reading.** Stanford's history education group found professional fact-checkers leave the page immediately to find out who is behind it; students read the page's own "About" section and are fooled. Read sideways, not downward.
+
+**SIFT** (Caulfield): **S**top. **I**nvestigate the source. **F**ind better coverage. **T**race to original context. Four steps, ninety seconds.
+
+**Arousal audit.** When a headline produces an immediate urge to share, wait ten seconds, name the emotion, and ask who profits from it. Anger and urgency are the standard bypass of System 2.
+
+**Attention budget.** Chronological feeds where offered, notifications off by default, fixed news windows, one long-form source per week, deliberate exposure to a competent opponent.
+
+**Steel-man.** State the strongest version of the other side before attacking the weak one. If you can't, you don't yet understand it.
+
+**Calibrate.** Assign probabilities rather than certainties. "Probably" can move; "definitely" has to be broken.
+
+⚠️ **Contested: does media literacy work at scale?** Short-term lab gains are solid and replicated. Population-level effects are smaller and decay without reinforcement, and some studies find literacy training increases *overconfidence* in weak evaluators. It is necessary, insufficient, and not a substitute for Chapter 11.
+
+📄 **Primary source.** Caulfield's SIFT page at pressbooks — read the four steps as written, then note how short they are. Brevity is the design.
+
+**Check.** (1) Why is prebunking cheaper than debunking? (2) What do fact-checkers do in the first five seconds? (3) Why might literacy training create overconfidence?
+
+🔧 **Activity.** Take the top trending item in your feed. Run all four SIFT steps on paper, with timestamps. Then write one sentence on what you'd have shared without them.
+
+**Summary.** Stop, look sideways, name the feeling, trace the claim. Then go and check the law, because habits alone lose to infrastructure.
